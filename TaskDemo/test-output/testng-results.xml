@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="129919" started-at="2020-08-26T18:43:03Z" finished-at="2020-08-26T18:45:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="129919" started-at="2020-08-26T18:43:03Z" finished-at="2020-08-26T18:45:13Z">
+      <class name="com.mt.testcases.RegisterTest">
+        <test-method status="PASS" signature="register()[pri:0, instance:com.mt.testcases.RegisterTest@e50a6f6]" name="register" duration-ms="129864" started-at="2020-08-26T18:43:03Z" finished-at="2020-08-26T18:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- com.mt.testcases.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
